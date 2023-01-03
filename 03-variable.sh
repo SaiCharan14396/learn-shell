@@ -7,10 +7,10 @@ class=world
 echo trainer name is $trainer
 echo class name is $class
 
-date=$(date +%f)
+date=$(date +%F)
 
-todays date is $date
+echo todays date is $date
 
-total=((2+3))
+total=$((2+3))
 
-sum is $total
+echo sum is $total

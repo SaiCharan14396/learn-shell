@@ -6,3 +6,11 @@ class=world
 
 echo trainer name is $trainer
 echo class name is $class
+
+date=$(date +%f)
+
+todays date is $date
+
+total=((2+3))
+
+sum is $total

@@ -1,6 +1,6 @@
 
 example() {
-  im a example function
+  echo im a example function
 }
 
 example

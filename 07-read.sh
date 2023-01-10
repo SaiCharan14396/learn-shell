@@ -1,3 +1,3 @@
-echo your name - $name
+read -p  'enter your name - ' name
 
 echo my name is $name
